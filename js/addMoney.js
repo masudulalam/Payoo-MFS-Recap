@@ -1,0 +1,1 @@
+console.log('addMoney.js is connected');
